@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Decoupling from Rails"
+date:   2015-11-25 10:00:00 -0300
+categories: programming, ruby, frameworkless
+---
+
+When people ask me "what do yo do for a living?" I tend to answer "I'm a Ruby developer" but, unfortulately, that's not entirely correct.
+
+Is true that my everyday work is writing Ruby code, but I think that right now, the more correct answer to that question is "I'm a /rails/ developer" as almost all my coding is Rails related. 
+
+The main reason I like to call myself a /Ruby developer/ is that my intent is to be one /pure Ruby developer/.
+
+I learned Ruby in 2011 via Rails (Rails for Zombies, Rails Tutorial and RailsCasts) and I began to notice that most of the communities I followed talked about decoupling from Rails. And since then I've been trying to do it.
+
+Why didn't I do it? Simple. Rails has it's way to draw me in. It's very easy to create a new site (or come to an existing Rails project) and just put everything in the kitchen sink. Once you write a line of code in /lazy/ mode, it's pretty difficult to switch gears and start /OOP/ing stuff.
+
+Right about June 2012 I watched (for the first time) Uncle Bob's talk *Architecture, the lost years*, and something clicked. Since then, I've been doubling my effort to change my ways. Sometimes I succeed, sometimes I don't.
+
+On my next article, I'll talk about my plans for getting better at this. See you then.
+
+Saluti.
+

@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Writing for human beings (or what is this blog about)"
+description: (or what is this blog about)
+date:   2015-11-24 11:54:26 -0300
+categories: about
+---
+
+If you are a human being, this blog post /tries/ to be for you.
+
+This is my second attempt of creating a blog. My first attempt died down pretty quickly because of two things.
+
+First, it was attacked and the hosting provider blocked the server account for security reasons. At the same time I realized that I wasn't very good at writing posts for human beings. It took me a lot of effort to make a short, coherent post, so I didn't even try to revive it (and that's the second reason).
+
+The truth is that I've been wanting to have a blog for a long time now and I decided that I'd do my best with the tools at my reach. I don't pretend or expect to be an excellent writer now, but to /grow with the flow/.
+
+What will you find in this blog? Things that I'm passionate about (programming stuff).
+
+I intend to launch several series of blog posts regarding certain practices I want to learn and improve, such as TDD and OOP.
+
+I'll also write about some projects I have (or will have).
+
+All that said, I hope you enjoy my blog.
+
+Saluti.
